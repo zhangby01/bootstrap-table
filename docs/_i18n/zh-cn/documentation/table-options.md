@@ -46,7 +46,7 @@
         <td>data-undefined-text</td>
         <td>String</td>
         <td>'-'</td>
-        <td>Defines the default undefined text.</td>
+        <td>当字段值为undefined时显示的字符</td>
     </tr>
     <tr>
         <td>striped</td>
